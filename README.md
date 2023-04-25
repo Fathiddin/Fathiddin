@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tohirjon-Odilov&label=Profile%20views&color=0e75b6&style=flat" alt="Tohirjon-Odilov" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fathiddin&label=Profile%20views&color=0e75b6&style=flat" alt="Fathiddin" /> </p>
 
 - 🌱 I’m currently learning **Python django**
 
@@ -13,17 +13,18 @@
 - ⚡ Fun fact **I am Funny**
 <details>
     <summary><b>✨About Me</b></summary><br/>
-    My name is <strong>fathiddin.</strong> Full name is <strong>Fathiddin Mamadaliyev.</strong> I'm from <strong>Andijan. 18.y.o</strong>
+    My name is <strong>fathiddin.</strong> Full name is <strong>Fathiddin Mamadaliyev.</strong> I'm from <strong>Andijan. 19.y.o</strong>
 </details>
 <details>
     <summary><b>🎭 My hobbies</b></summary><br/>
-      <strong>Programming, tennis, listening to music, .</strong>
-</details>
+      <strong>Programming, play game, listening to music, .</strong>
+</details> 
 
 
 <a href="https://t.me/fathiddin_mamadaliyev">
   <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
 </a>
+
 
 </br>
 
