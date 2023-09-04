@@ -1,3 +1,4 @@
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a></p>
 <h1 align="center">Hi 👋, I'm Fathiddin</h1>
 <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
 <img align="right" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding" />
